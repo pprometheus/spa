@@ -1,0 +1,83 @@
+.sidebar-container {
+    background-color: rgba(23, 89, 117, 0.986);
+    width: 100%;
+    height: 10vh;
+    color: white;
+
+}
+
+.profile {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+
+}
+
+.icon {
+
+    position: absolute;
+    right: 60px;
+    top: 5px;
+    height: 20px;
+    top: 15px;
+    padding: 10px;
+    border: 1px solid white;
+    border-radius: 50%;
+
+}
+
+.profile span {
+    font-size: x-large;
+}
+
+
+
+
+.dropdown {
+    position: relative;
+    display: inline-block;
+    padding-left: 100px;
+}
+
+.dropdown-content {
+
+    border: 1px solid white;
+    display: none;
+    position: absolute;
+    border-radius: 10px;
+    top: 55px;
+    right: 40px;
+    padding-top: 10px;
+    background-color: #000000;
+    color: white;
+    height: 70px;
+    width: 100px;
+    box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
+    z-index: 1;
+}
+
+
+.dropdown-content span {
+    font-size: small;
+    padding: 0px 0px 5px 5px;
+
+}
+
+.dropdown-content button {
+    border: 1px solid white;
+    background: transparent;
+    color: white;
+    padding: 5px;
+    margin-left: 25px;
+    margin-top: 10px;
+}
+
+.dropdown:hover .dropdown-content {
+    display: block;
+}
+
+.select_btn{
+   height: 50px;
+   width: 250px;
+   border: 1px solid #fff; 
+}

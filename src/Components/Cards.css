@@ -1,0 +1,46 @@
+.main-container {
+    overflow: hidden;
+    width: 100vw;
+    height: 100%;
+    background-color: black;
+    color: white;
+    border: 0;
+    margin: 0;
+
+}
+
+.cards-container {
+    height: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.cards{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    justify-content: center;
+}
+
+.select{
+    background-color: black;
+    color: white;
+    height: 30px;
+}
+
+.selectbtn{
+    background-color: black;
+    border: 1px solid white;
+    width: 120px;
+    height: 30px;
+    margin-left: 5px;
+    color: white;
+}
+
+.filter{
+    padding-top: 10px;
+}
