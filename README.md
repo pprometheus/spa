@@ -1,7 +1,7 @@
 
-# React SPA Role Challenge
+# React SPA 
 
-This is a React Single Page Application (SPA) that implements a role challenge system, featuring a login page, a dashboard page, and an admin dashboard page.
+This is a React Single Page Application (SPA) that implements a system, featuring a login page, a dashboard page, and an admin dashboard page.
 
 ## Folder Structure
 
