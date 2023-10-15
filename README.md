@@ -1,6 +1,3 @@
-Sure, I can help you create a README file for your React app based on the given requirements. Below is a template for the README file:
-
----
 
 # React SPA Role Challenge
 
@@ -19,7 +16,7 @@ The application is organized into the `spa` folder.
 1. Clone the repository to your local machine.
 
 ```bash
-git clone <repository_url>
+git clone https://github.com/pprometheus/spa
 cd spa
 ```
 
@@ -61,7 +58,6 @@ The admin dashboard allows admins to create new labels, which are used to catego
 
 - React
 - Node.js
-- Other relevant libraries and frameworks
 
 ## Contributors
 
